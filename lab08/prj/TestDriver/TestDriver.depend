@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1681147063 source:e:\рабочий стол\Ируся\кисм\бмтп\гитхаб\berlin-iryna-kb222\lab08\prj\testdriver\main.cpp
+	<iostream>
+	<cmath>
+	"../ModulesBerlin/Berlin_lib.h"
+
+1681146261 e:\рабочий стол\Ируся\кисм\бмтп\гитхаб\berlin-iryna-kb222\lab08\prj\modulesberlin\berlin_lib.h
+
